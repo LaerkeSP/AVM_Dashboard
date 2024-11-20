@@ -1,4 +1,9 @@
+# Datasets
+
 # Logs
+## Week 9
+
+
 ## Week 8
 The design phase has been started, following the CAST method presented in class. Here the Content, Audience, and Story has been worked through, with the Tell part still missing.
 
@@ -16,7 +21,7 @@ This change was made, as Steve Reed (Secretary of State for Environment, Food an
 Further work for week 9 is to start the brainstorming and design process, so that everything is ready for the creation of the dashboard. 
 
 
-# Week 7
+## Week 7
 In this week the main area of focus has been chosen. This was partially done through a class discussion, and a seminar.
 
 The area of focus is within healthcare, and focuses on the effects of air pollution from climate change on peoples health.
