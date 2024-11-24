@@ -2,7 +2,11 @@
 
 # Logs
 ## Week 9
+The brainstorm has been done by drawing different variation of the graphs on post it notes, making it possible to move the different elements around, testing different design setups. At this point some data was excluded, as they were deemed to add clutter, and cloud the overall message of the dashboard. One of these data-points were the gender, as the inclusion would have shifted the focus to the different affects of pollution depending on the gender, instead of the general affect on health. 
 
+The brainstorm design led to many revelations, but as it was not clear of it was transferable to a screen, a more refined sketch was created on PowerPoint. This sketch led to further reduction of data visualised, as it was clear it would overwhelm the user. Here one aspect of each health concern was visualised (Cancer, Heart Disease, and Respiratory Disease). Additionally, the pollution was added to each of the graphs as stacked bar charts, to ensure proper comparison between the two elements. Lastly, a map element was included, to show the differences in the regions, with the pollution being represented through a gradient of the region, and the health concern being represented by a bubble on each region. 
+
+Week 10 will be dedicated to clean the data properly, as to ensure it is ready for the visualisation, with a possibility of creating some of the first graphs. 
 
 ## Week 8
 The design phase has been started, following the CAST method presented in class. Here the Content, Audience, and Story has been worked through, with the Tell part still missing.
