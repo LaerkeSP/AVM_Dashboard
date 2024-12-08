@@ -1,6 +1,19 @@
 # Datasets
 
 # Logs
+## Week 11
+The data was cleaned, calculations was made, and all of the pollution and health datasets was merged into one, for easier use.
+
+Two types of graphs has been created:
+1. Three bar/line charts depicting the change of each disease over the timespan of 2021-2022. Here the pollution data has been converted to a 100% stacked barchart, with the health data being the linechart. It is still debatable if gender should be included in these charts.
+2. A map of the regions within England, where the pollution level are represented by a scaling color, and the disease is represented by a bubble. This has been made, so one disease and one pollution is selected at a time, with the possibility for the user to interact with the map. 
+
+
+With the graphs created, the last thing missing is the coloscheme of the dashboard, and collecting the graphs into the dashboard. 
+
+## Week 10 
+An exam for another class took priority, who no changes was done this week. 
+
 ## Week 9
 The brainstorm has been done by drawing different variation of the graphs on post it notes, making it possible to move the different elements around, testing different design setups. At this point some data was excluded, as they were deemed to add clutter, and cloud the overall message of the dashboard. One of these data-points were the gender, as the inclusion would have shifted the focus to the different affects of pollution depending on the gender, instead of the general affect on health. 
 
